@@ -1,5 +1,5 @@
 # 🛡️ Nagar Alert Hub – Admin Dashboard
-** Visit Nagar Alert Hub Admin Dashboard Live At : https://www.figma.com/make/WW2o9DSjfneM3Wx0199RR3/Admin-Dashboard-UI-Design--Community-?p=f&t=mtn64dPAdTzXPddb-0**
+ **Visit Nagar Alert Hub Admin Dashboard Live At : https://www.figma.com/make/WW2o9DSjfneM3Wx0199RR3/Admin-Dashboard-UI-Design--Community-?p=f&t=4aARAFFrp0Q46X2G-0&fullscreen=1**
 
 The **Nagar Alert Hub Admin Dashboard** is a centralized web application for administrators to monitor, verify, analyze, and manage citizen-reported urban incidents in real time. It functions as the operational control center for alert validation, analytics, and system configuration in smart-city environments.
 
